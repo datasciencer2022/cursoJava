@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Leitura {
     	public static void main(String[] args) {

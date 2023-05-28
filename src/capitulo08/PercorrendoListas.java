@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class PercorrendoListas {
     	public static void main(String[] args) {

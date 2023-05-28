@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Listas1 {
     	public static void main(String[] args) {

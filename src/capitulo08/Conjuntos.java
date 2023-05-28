@@ -10,7 +10,7 @@ import java.util.Set;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Conjuntos {
     public static void main(String[] args) {

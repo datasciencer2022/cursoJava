@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 import java.util.List;
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Principal3 {
     public static void main(String[] args) {

@@ -9,7 +9,7 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class ContatoTableModel extends AbstractTableModel {
     //nome das colunas da tabela

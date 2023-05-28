@@ -24,7 +24,7 @@ import org.jdom2.JDOMException;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Principal extends JDialog implements ActionListener{
     private JFrame frame;

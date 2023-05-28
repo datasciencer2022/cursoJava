@@ -15,7 +15,7 @@ import org.jdom2.output.XMLOutputter;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class TrabalharXML {
     /*

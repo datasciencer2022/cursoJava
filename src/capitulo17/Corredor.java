@@ -6,7 +6,7 @@ package capitulo17;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Corredor extends Atleta{
     @Override

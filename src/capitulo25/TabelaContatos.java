@@ -10,7 +10,7 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class TabelaContatos extends JDialog {
     private TableModel modeloTabela = null;

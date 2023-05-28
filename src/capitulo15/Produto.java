@@ -6,7 +6,7 @@ package capitulo15;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Produto {
     private int codigo;

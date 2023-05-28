@@ -6,7 +6,7 @@ package capitulo14;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Corredor extends Atleta{
     public double atualizarValor(double taxa) {

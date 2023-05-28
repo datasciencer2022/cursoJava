@@ -6,7 +6,7 @@ package capitulo24;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class MinhaExcecao extends Exception {
         @Override

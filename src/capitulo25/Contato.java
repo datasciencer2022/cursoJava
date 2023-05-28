@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Contato {
     private int id;

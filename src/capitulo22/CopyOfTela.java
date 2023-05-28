@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class CopyOfTela extends JFrame implements ActionListener{
     	private List<Contato> minhaLista = new ArrayList<Contato>();

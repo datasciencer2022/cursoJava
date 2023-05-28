@@ -10,7 +10,7 @@ import capitulo17.Produto;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Livro extends Produto implements Comercializavel{
     @Override

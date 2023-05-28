@@ -8,7 +8,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class CarrinhoCompras {
     private List<Produto> listaProd = new ArrayList<Produto>();

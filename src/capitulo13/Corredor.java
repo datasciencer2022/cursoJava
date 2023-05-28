@@ -8,7 +8,7 @@ import capitulo12.Atleta;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Corredor extends Atleta{
     	private double velocidadeMedia;

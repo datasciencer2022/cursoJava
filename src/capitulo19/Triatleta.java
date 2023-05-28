@@ -6,7 +6,7 @@ package capitulo19;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Triatleta implements Corredor, Nadador, Ciclista{
     @Override

@@ -6,7 +6,7 @@ package capitulo18;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public abstract class Ciclista extends Atleta{
     @Override

@@ -6,7 +6,7 @@ package capitulo13;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class TesteJogadorDeFutebol {
     public static void main(String[] args) {

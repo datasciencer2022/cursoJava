@@ -6,7 +6,7 @@ package capitulo11;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class TestaAtleta {
 	public static void main(String[] args) {

@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Tela extends JFrame implements ActionListener{
     private JLabel lblNome, lblEmail;

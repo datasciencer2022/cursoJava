@@ -16,7 +16,7 @@ import javax.swing.event.MenuListener;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Menu extends JFrame implements MenuListener, ActionListener{
     private JMenuBar barraMenu;

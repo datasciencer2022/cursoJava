@@ -12,7 +12,7 @@ import java.awt.TextField;
 
 /**
  *
- * @author camila.ceccatto
+ * @author Geraldo C Cantelli
  */
 public class Tela extends Frame {
     private Label lblNome, lblEmail;
