@@ -2,8 +2,6 @@ package modulo01;
 
 import java.util.Scanner;
 
-import javax.swing.JOptionPane;
-
 public class Metodos2 {
 
 	

@@ -1,15 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package modulo01;
 
 import java.util.Scanner;
 
-/**
- *
- * @author camila.ceccatto
- */
 public class Casting {
     	public static void main(String[] args) {
     		int i = 9;
