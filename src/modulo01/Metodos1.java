@@ -2,6 +2,11 @@ package modulo01;
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Geraldo C Cantelli
+ */
+
 public class Metodos1 {
 
 	// sem retorno

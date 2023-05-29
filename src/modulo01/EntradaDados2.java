@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
+/**
+ *
+ * @author Geraldo C Cantelli
+ */
+
 public class EntradaDados2 {
 
 	public static void main(String[] args) {

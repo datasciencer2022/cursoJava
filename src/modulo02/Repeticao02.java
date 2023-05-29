@@ -1,5 +1,9 @@
-
 package modulo02;
+
+/**
+ *
+ * @author Geraldo C Cantelli
+ */
 
 public class Repeticao02 {
     public static void main(String[] args) {

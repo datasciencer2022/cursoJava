@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package capitulo05;
+package modulo02;
 
 import javax.swing.JOptionPane;
 
@@ -10,16 +10,16 @@ import javax.swing.JOptionPane;
  *
  * @author Geraldo C Cantelli
  */
-public class ExemploDecisao {
+public class Decisao02 {
   public static void main(String[] args) {
-		int idade = Integer.parseInt(
-				JOptionPane.showInputDialog("Digite sua idade:"));
+		int i = Integer.parseInt(
+				JOptionPane.showInputDialog("Digite um número inteiro:"));
 
-		if (idade < 18) {
-			System.out.println("menor de idade");
+		if (i % 2 == 0) {
+			System.out.println(i + " é par");
 		}
 		else {
-			System.out.println("maior");
+			System.out.println(i + " é impar");
 		}	
 	}
 }

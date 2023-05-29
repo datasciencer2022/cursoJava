@@ -2,6 +2,11 @@ package modulo02;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Geraldo C Cantelli
+ */
+
 public class Repeticao03 {
 	static Scanner scan = new Scanner(System.in);
 	

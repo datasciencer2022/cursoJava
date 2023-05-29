@@ -2,6 +2,11 @@ package modulo01;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author Geraldo C Cantelli
+ */
+
 public class EntradaDados {
 
 	public static void main(String[] args) {
