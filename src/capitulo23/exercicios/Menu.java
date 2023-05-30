@@ -21,7 +21,7 @@ public class Menu extends JFrame implements MenuListener, ActionListener{
         //serão adicionados aos respectivos menus
 	private JMenuItem menuContatos, menuSair, menuContagem;
         
-	private Principal pcontatos=null;
+	private Principal01 pcontatos=null;
 	
 	public Menu(String titulo) {
             /* Aqui é a chamada ao contrutor da superclasse, 
@@ -92,7 +92,7 @@ public class Menu extends JFrame implements MenuListener, ActionListener{
                 * */
 		if (e.getSource() == menuContatos) {
 			if (pcontatos == null) {
-				pcontatos = new Principal(this,"Capitulo IV",true);	
+				pcontatos = new Principal01(this,"Capitulo IV",true);	
 			}
 			else {
 				pcontatos.setVisible(true);	

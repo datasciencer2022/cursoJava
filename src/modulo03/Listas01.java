@@ -20,6 +20,8 @@ public static void main(String[] args) {
 		minhaLista.add(40);  //idade
 		minhaLista.add(1.74);  //altura
 		
+		//minhaLista.clear();
+		
 		System.out.println(minhaLista.get(0)+
 				" tem "+minhaLista.get(1)+
 				" anos e mede "+ minhaLista.get(2) +

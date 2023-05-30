@@ -17,6 +17,7 @@ public class Cliente {
 					JOptionPane.showInputDialog("Digite sua altura: "));;
 	}
 	
+
 	public void mostrar() {
 		String mensagem = this.nome +
 				" tem "+ this.idade +
@@ -27,4 +28,5 @@ public class Cliente {
 				mensagem);
 		
 	}
+	
 }

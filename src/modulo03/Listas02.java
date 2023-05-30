@@ -5,6 +5,7 @@
 package modulo03;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 
 /**
@@ -39,6 +40,12 @@ public class Listas02 {
     	for (Cliente cli: minhaLista) {
     		cli.mostrar();
     	}
+    
+    	Iterator interagir = minhaLista.iterator();
+		
+		while (interagir.hasNext()) {
+			System.out.println(interagir.next());
+		}
     	
     }
 }
