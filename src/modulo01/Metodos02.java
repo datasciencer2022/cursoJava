@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * @author Geraldo C Cantelli
  */
 
-public class Metodos1 {
+public class Metodos02 {
 
 	// sem retorno
 	public static void receberDados() {

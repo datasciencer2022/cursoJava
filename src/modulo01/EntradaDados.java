@@ -26,9 +26,9 @@ public class EntradaDados {
 		 * bug conhecido
 		 */
 		
-		String mensagem = "Nome: " + nome +
-				" Idade: " + idade +
-				" Altura: " + altura;
+		String mensagem = "\nNome: " + nome +
+				"\tIdade: " + idade +
+				"\tAltura: " + altura;
 		
 		System.out.println(mensagem);
 		//colocar \t e \n

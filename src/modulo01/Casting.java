@@ -18,7 +18,7 @@ public class Casting {
     		//i = d;
     		// não compila sem fazer casting
     		i = (int) d;
-    		//System.out.println("i= "+ i+ " d= "+ d);
+    		System.out.println("i= "+ i+ " d= "+ d);
     		
     		
     	}

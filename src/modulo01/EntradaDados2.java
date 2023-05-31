@@ -25,8 +25,8 @@ public class EntradaDados2 {
 		
 		
 		String mensagem = "Nome: " + nome +
-				" Idade: " + idade +
-				" Altura: " + altura;
+				"\nIdade: " + idade +
+				"\nAltura: " + altura;
 		
 		JOptionPane.showMessageDialog(null, mensagem);
 		//colocar \t e \n
