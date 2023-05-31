@@ -1,4 +1,4 @@
-package modulo04;
+package modulo05b;
 
 import java.text.DateFormat;
 import java.text.NumberFormat;
@@ -38,5 +38,24 @@ public class ContaPoupanca extends Conta {
 				  super.dtCadastro.format(formatoData)+"\n"+
 				"Taxa juros: "+ this.taxaJuros + "%.";
 	}
-	
+
+	@Override
+	public boolean sacar(double valor) {
+		// em conta poupança não existe valor de limite
+		
+		if(valor > this.saldo) {
+			return false;	
+		}
+		else {
+			this.saldo -= valor;
+			return true;
+					
+		}
+	}
+
+	@Override
+	public boolean validarCPF(String cpf) {
+		// Adicione aqui as regras de negócio deste método
+		return true;
+	}
 }
